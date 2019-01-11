@@ -24,6 +24,7 @@ doi = {10.1108/EL-12-2012-0156}
 
 R2RML implementation written fully in Java 7, using Apache Jena 2.11, Spring 4.0, JUnit 4.9, and Maven 3.1. Tested against MySQL 5.6, PostgreSQL 9.2 and Oracle 11g.
 
+
 ### Licence
 
 This work is licensed under the Apache License 2.0.
